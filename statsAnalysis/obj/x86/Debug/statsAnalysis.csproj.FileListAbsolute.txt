@@ -1,0 +1,16 @@
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\statsAnalysis.exe.config
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\statsAnalysis.exe
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\statsAnalysis.pdb
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\EntityFramework.dll
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\EntityFramework.xml
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\x86\Debug\statsAnalysis.mainWindow.resources
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\x86\Debug\statsAnalysis.Properties.Resources.resources
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\x86\Debug\statsAnalysis.csproj.GenerateResource.Cache
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\x86\Debug\statsAnalysis.exe
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\x86\Debug\statsAnalysis.pdb

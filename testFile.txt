@@ -1,0 +1,29 @@
+package jal;
+
+import java.io.File;
+import javax.swing.table.*;
+import static java.util.Map;
+
+public class MyClass 
+{
+	int windowCount;
+	String windowName, tabName;
+	bool isChild;
+
+	public MyClass (bool isChild)
+	{
+		windowCount++;
+		windowName = "jalWindow"+windowCount;
+		tabName = "Only one tab";
+		char theOne = 'A';
+		float f1 = 1.12345;
+		int hexVal = 0xFFFF;
+		int octVal = 0666;
+		int decVal = 9000;
+	}
+
+/* Ending Comment */
+//Line comment.
+
+
+}

@@ -1,0 +1,36 @@
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.mainWindow.resources
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.Properties.Resources.resources
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.csproj.GenerateResource.Cache
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.exe.config
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.exe
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.pdb
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\Debug\System.Data.SQLite.dll
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.exe
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.pdb
+C:\Users\Revren\Documents\Visual Studio 2013\Projects\statsAnalysis\statsAnalysis\bin\Debug\System.Data.SQLite.xml
+E:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.exe.config
+E:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.exe
+E:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.pdb
+E:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.exe
+E:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.pdb
+E:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.csprojResolveAssemblyReference.cache
+E:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.Properties.Resources.resources
+E:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.csproj.GenerateResource.Cache
+K:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.exe.config
+K:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.exe
+K:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.pdb
+K:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.exe
+K:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.pdb
+K:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.Properties.Resources.resources
+K:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.csproj.GenerateResource.Cache
+K:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis._03_guiObjects.mainWindow.resources
+K:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\Antlr3.Runtime.dll
+K:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\Antlr3.Runtime.pdb
+K:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.csprojResolveAssemblyReference.cache
+E:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis._03_guiObjects.mainWindow.resources
+E:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\Antlr3.Runtime.dll
+E:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\Antlr3.Runtime.pdb
+G:\CECS547\statsAnalysis\statsAnalysis\bin\Debug\statsAnalysis.exe.config
+G:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.exe
+G:\CECS547\statsAnalysis\statsAnalysis\obj\Debug\statsAnalysis.pdb

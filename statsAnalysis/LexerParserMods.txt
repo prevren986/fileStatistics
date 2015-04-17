@@ -1,0 +1,19 @@
+﻿Lexer:
+
+1. Add using System;
+
+Parser:
+
+1. Make compilationUnit function public.
+2. Add "using System;"
+
+
+GUI Stats Table
+//needed after editing in design view
+
+1. In mainWindow.cs, add this line before constructor 
+	    System.Windows.Forms.DataGridView statsViewTable;
+ 
+2. Go into mainWindow.Designer code
+	--comment out line 41
+	--add "this." to the beginning of line 70
